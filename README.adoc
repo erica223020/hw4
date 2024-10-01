@@ -11,7 +11,7 @@ curl -X POST "https://api.example.com/data" -H "Content-Type: application/json" 
 
 * Postman: 是一個圖形化介面工具，可以模擬 HTTP Request，幫助開發人員測試 API 是否正常回應，會以視覺化的方式呈現請求和回應的詳細資料。
 +
-image::https://github.com/erica223020/hw4?tab=readme-ov-file[Postman 界面示例]
+image::https://i.ibb.co/G3Ch4Mq/image.png[Postman 界面示例]
 
 == 2. 使用時機
 * cURL: 適合用於自動化測試、腳本以及快速發送簡單的請求，尤其是在命令列環境中或是需要自動化流程的時候。
