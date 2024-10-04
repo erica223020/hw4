@@ -3,8 +3,11 @@
 ### 有預設一組帳密 
 * 帳號:testUser
 * 密碼:abc123
-* 登入首頁:http://localhost:8081/projectA/login
+* 登入首頁(http://localhost:8081/projectA/login)
 
+### 使用方式
+
+* 請使用STS4`Run As`的`Spring Boot App`
 
 = Postman/cURL 用途簡易說明
 
