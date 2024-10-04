@@ -7,7 +7,7 @@
 
 ### 使用方式
 
-* 請使用STS4`Run As`的`Spring Boot App`
+* 請使用STS4 `Run As` 的 `Spring Boot App`
 
 = Postman/cURL 用途簡易說明
 
